@@ -33,27 +33,27 @@ renaming.
 Rename a Section, Subsection, or Unit
 ======================================
 
-1. In Studio, open the course outline.
+#. In Studio, open the course outline.
 
-2. Locate the library-sourced section, subsection, or unit you want to rename.
+#. Locate the library-sourced section, subsection, or unit you want to rename.
 
-3. Select the pencil icon or select the existing title to make it editable.
+#. Select the pencil icon or select the existing title to make it editable.
 
-4. Enter the new title.
+#. Enter the new title.
 
-5. Press :guilabel:`Enter` or select outside the field to save the change.
+#. Press :guilabel:`Enter` or select outside the field to save the change.
 
-Rename a Component
-==================
+Rename a non-Text Component
+===========================
 
-1. In Studio, open the unit that contains the library-sourced component you
+#. In Studio, open the unit that contains the library-sourced component you
    want to rename.
 
-2. Select the pencil icon next to the component's title to make it editable.
+#. Select the pencil icon next to the component's title to make it editable.
 
-3. Enter the new title.
+#. Enter the new title.
 
-4. Press :guilabel:`Enter` or select outside the field to save the change.
+#. Press :guilabel:`Enter` or select outside the field to save the change.
 
 The component now displays your custom title in the course. The title in the
 source library is not affected.
@@ -62,6 +62,20 @@ source library is not affected.
    Once you save a title override, there is no indicator in the current release
    that marks the content as locally renamed. This is planned for a future
    release.
+
+Rename a Text Component
+=======================
+
+#. In Studio, open the unit that contains the library-sourced component you want to rename.
+
+#. Select the pencil icon next to the text component's title to make it editable.
+
+#. Select the pencil icon next to the component's title in the modal.
+
+#. Select the checkmark icon to save the new title.
+
+#. Select the save button at the bottom of the modal to save the change.
+
 
 How Title Overrides Interact with Syncing
 ******************************************

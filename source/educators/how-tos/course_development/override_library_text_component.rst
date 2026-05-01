@@ -33,17 +33,23 @@ Before you begin, ensure that you have:
 Override the Text Content
 *************************
 
-1. In Studio, open the unit that contains the library-sourced text component
+#. In Studio, open the unit that contains the library-sourced text component
    you want to customize.
 
-2. Locate the text component. It will display an :guilabel:`Edit` button even
+#. Locate the text component. It will display an edit button (pencil icon) even
    though it is library-sourced.
 
-3. Select :guilabel:`Edit` to open the text editor.
+#. Select the pencil icon to open the text editor.
 
-4. Make your changes to the text content.
+   ..  image:: /_images/educator_how_tos/library_TextComponent_PencilIcon.png
+	 :alt: The pencil icon appears in the top right of the component editor, above the main content.
 
-5. Select :guilabel:`Save` to save the override.
+#. Make your changes to the text content.
+
+#. Select :guilabel:`Save` to save the override.
+
+   ..  image:: /_images/educator_how_tos/library_TextComponent_EditModalandSave.png
+	 :alt: Once the text has been edited, select the "Save" button in the lower right corner of the editor modal.
 
 The text component now displays your customized content in the course. The
 original content in the source library is not affected.
